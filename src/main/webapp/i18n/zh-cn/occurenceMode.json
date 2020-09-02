@@ -1,0 +1,11 @@
+{
+  "schedulingReportApp": {
+    "OccurenceMode": {
+      "null": "",
+      "ONEOFF": "ONEOFF",
+      "CANCEL": "CANCEL",
+      "CERTAINDATE": "CERTAINDATE",
+      "RECURRING": "RECURRING"
+    }
+  }
+}
