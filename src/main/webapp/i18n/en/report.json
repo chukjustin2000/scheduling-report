@@ -25,7 +25,7 @@
       "document": "Document",
       "description": "Description",
       "recipients": "Select Recipients",
-      "cancel": "Cancel Schedule"
+      "cancel": "Cancel"
     }
   }
 }
