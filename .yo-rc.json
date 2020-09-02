@@ -38,6 +38,8 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en", "zh-cn", "fr"],
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "scheduling-report",
+    "herokuDeployType": "git"
   }
 }
